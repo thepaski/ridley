@@ -8,7 +8,7 @@ git pull
 
 # install meteor
 
-Run the default meteor server.. (creates a empty mongo db..)
+Run the default meteor server.. (creates an empty mongo db..)
 admin/password
 
 Upload data file (ridley/data5.xlsx)
