@@ -10,4 +10,4 @@ Run the default meteor server.. (creates a empty mongo db..)
 
 admin/password
 
-Upload data file
+Upload data file (ridley/data5.xlsx)
